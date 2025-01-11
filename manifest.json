@@ -1,0 +1,16 @@
+{
+  "name": "FixInstagramLinks",
+  "description": "Automatically replaces instagram.com links with ddinstagram.com links for proper Discord embeds.",
+  "authors": [
+    {
+      "name": "breadix",
+      "id": "163310336168951818"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_link",
+    "original": "https://raw.githubusercontent.com/Deniz1433/FixInstagramLinks/main/"
+  },
+  "hash": "DBB34DA01C2E338539F5C868587D047FD212FB138F40A9124A1D188D3B7C6BD3"
+}
